@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Build artifacts / release outputs
+dist/
+
+# Xcode / Apple tooling
+DerivedData/
+*.xcworkspace/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcuserstate
+
+# Editor settings
+.vscode/
